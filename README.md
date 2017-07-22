@@ -4,4 +4,4 @@ This activity is a simple use of our RESET CSS file and link a picture. If we op
 
 
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/marioiovanna/animal/blob/master/resetCSS.PNG "Logo Title Text 1")
